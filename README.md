@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0088-merge-sorted-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## String
 |  |
@@ -16,8 +17,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
