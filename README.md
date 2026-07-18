@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0088-merge-sorted-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -37,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
