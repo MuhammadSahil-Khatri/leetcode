@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
 | ------- |
