@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2965-find-missing-and-repeated-values](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -74,8 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Hash Table
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
