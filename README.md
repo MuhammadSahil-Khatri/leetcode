@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0443-string-compression) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Two Pointers
 |  |
 | ------- |
