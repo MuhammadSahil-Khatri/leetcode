@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -98,4 +99,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
