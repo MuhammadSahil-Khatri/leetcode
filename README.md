@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -91,5 +92,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
