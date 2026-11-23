@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0217-contains-duplicate) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
