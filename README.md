@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0031-next-permutation) |
 | [0074-search-a-2d-matrix](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0217-contains-duplicate) |
@@ -120,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
