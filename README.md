@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0078-subsets) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
