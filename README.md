@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0078-subsets) |
@@ -141,5 +145,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/MuhammadSahil-Khatri/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
